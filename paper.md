@@ -17,3 +17,7 @@ Simulated the evolutions of particle sizes along transport route
 
 # Methodology
 Comparisons of measurements of particle aging with a simulation. Model according to Simth et all 2002.
+
+# Results
+Simulation suggests that agglomeration appears to be the promary process for size variation over time
+
