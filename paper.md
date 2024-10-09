@@ -21,3 +21,5 @@ Comparisons of measurements of particle aging with a simulation. Model according
 # Results
 Simulation suggests that agglomeration appears to be the promary process for size variation over time
 
+# Figures
+Figures go in their section on the paper draft
