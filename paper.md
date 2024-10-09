@@ -1,8 +1,9 @@
 # Title
-Testing Paper
+Simulations on a test paper
 
 #Author
 MJJ Schmidt
+John Smith
 
 # Introduction
 This is a generig paper introduction paragraph. It is a bit contrived but I can't think of another thing to put down here right now.
