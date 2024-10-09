@@ -15,3 +15,5 @@ Previous work has been undertaken by Li et al in 2008 but has since been invalda
 # Simulations
 Simulated the evolutions of particle sizes along transport route
 
+# Methodology
+Comparisons of measurements of particle aging with a simulation. Model according to Simth et all 2002.
