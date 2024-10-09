@@ -23,3 +23,6 @@ Simulation suggests that agglomeration appears to be the promary process for siz
 
 # Figures
 Figures go in their section on the paper draft
+
+# Conclusions
+We made some minor incremental improvements to the fiels and have answered some minor questions.
