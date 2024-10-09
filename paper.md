@@ -1,7 +1,7 @@
 # Title
 Aircraft measurements and simulations for Testing Paper
 
-#Author
+# Author
 MJJ Schmidt
 John Smith
 
